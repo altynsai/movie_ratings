@@ -1,6 +1,6 @@
 # movie_ratings
 NLP project on prediction of the user ratings based on the plot of the movie.
-This repo consis of three files: 
+This repo consists of three files: 
 
 - `0_data_collection`: scraping data from wikipedia
 
