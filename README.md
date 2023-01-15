@@ -8,4 +8,4 @@ This repo consists of three files:
 
 - `2_classic_models`: trying linear regression and four classification models to identify important plot details
 
-`data` folder consists of raw and preprocessed data used in notebooks.
+`data` folder consists of raw and preprocessed data used in notebooks. Large files were compressed to ZIP file. File `title.basics.tsv.gz` was too large to upload. It's updated version can be downloaded from IMBD website: https://datasets.imdbws.com/title.basics.tsv.gz
